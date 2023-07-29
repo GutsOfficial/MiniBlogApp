@@ -1,0 +1,20 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+
+}
+
+<h1><b>@Model.Title</b> isimli bloğu silmek istediğinizden emin misiniz?</h1>
+
+<div class="container">
+
+   
+    <form asp-controller="Blog" asp-action="Delete" method="post">
+        <input type="hidden" asp-for="BlogId" />
+                           
+        <button type="submit" class="btn btn-danger">Delete</button>
+    </form>
+</div>
+

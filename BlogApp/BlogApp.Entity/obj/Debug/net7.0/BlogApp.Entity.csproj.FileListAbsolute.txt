@@ -1,0 +1,12 @@
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\bin\Debug\net7.0\BlogApp.Entity.deps.json
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\bin\Debug\net7.0\BlogApp.Entity.dll
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\bin\Debug\net7.0\BlogApp.Entity.pdb
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\obj\Debug\net7.0\BlogApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\obj\Debug\net7.0\BlogApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\obj\Debug\net7.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\obj\Debug\net7.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\obj\Debug\net7.0\BlogApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\obj\Debug\net7.0\BlogApp.Entity.dll
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\obj\Debug\net7.0\refint\BlogApp.Entity.dll
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\obj\Debug\net7.0\BlogApp.Entity.pdb
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Entity\obj\Debug\net7.0\ref\BlogApp.Entity.dll

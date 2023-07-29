@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h1>List</h1>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            @if (Model.Count() > 0)
+            {
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <td>Image</td>
+                           
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+
+                                <td>@item.Name</td>
+                                
+                                <td>
+                                    <a class="btn btn-primary" asp-controller="Category" asp-action="AddOrUpdate" asp-route-id="@item.CategoryId">
+                                        Details
+                                    </a>
+                                </td>
+                                <td>
+                                    <a class="btn btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id="@item.CategoryId">
+                                        Delete
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <div class="alert alert-danger">
+                    Kategory Eklenmemiş
+                </div>
+            }
+        </div>
+    </div>
+</div>

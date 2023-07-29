@@ -1,0 +1,21 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+
+    <h2>Create</h2>
+    <form asp-controller="Category" asp-action="Create" method="post">
+        <div class="form-group">
+            <label asp-for="Name">Blog Kategorisi</label>
+            <input asp-for="Name" class="form-control" placeholder="Enter Title">
+            <small id="emailHelp" class="form-text text-muted">We'll never share </small>
+        </div>
+     
+        
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+

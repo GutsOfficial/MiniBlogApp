@@ -1,0 +1,15 @@
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\bin\Debug\net7.0\BlogApp.Data.deps.json
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\bin\Debug\net7.0\BlogApp.Data.dll
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\bin\Debug\net7.0\BlogApp.Data.pdb
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\bin\Debug\net7.0\BlogApp.Entity.dll
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\bin\Debug\net7.0\BlogApp.Entity.pdb
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\BlogApp.Data.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\BlogApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\BlogApp.Data.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\BlogApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\BlogApp.Data.csproj.CopyComplete
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\BlogApp.Data.dll
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\refint\BlogApp.Data.dll
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\BlogApp.Data.pdb
+C:\Users\Administrator\Downloads\27temmuz\BlogApp\BlogApp.Data\obj\Debug\net7.0\ref\BlogApp.Data.dll

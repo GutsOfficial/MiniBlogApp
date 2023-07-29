@@ -1,0 +1,69 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "AddOrUpdate";
+
+}
+
+@section scripts{
+    <script src="~/ckeditor/ckeditor.js"></script>
+    
+    
+}
+
+
+<div class="container">
+   
+    <h2>Edit</h2>
+    <form asp-controller="Blog" asp-action="AddOrUpdate" method="post" enctype="multipart/form-data" >
+        <input type="hidden" asp-for="BlogId" />
+        <input type="hidden" asp-for="Image" />
+        <div class="form-group">
+            <label asp-for="Title">Blog Başlığı</label>
+            <input asp-for="Title" class="form-control" placeholder="Enter Title">
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Description">Blog Açıklaması</label>
+            <input asp-for="Description" class="form-control" placeholder="Enter Description">
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Body">Blog Başlığı</label>
+            <textarea asp-for="Body" id="Body" class="form-control"></textarea>
+
+        </div>
+        <div class="form-group">
+            
+            <input type="file" name="file" id="file" class="form-control" placeholder="Enter Image">
+
+        </div>
+        <div class="form-group">
+            <label class="form-check-label"><input class="form-check-input" asp-for="IsApproved" />IsApproved?</label>
+
+
+        </div>
+        <div class="form-group">
+            <label class="form-check-label"><input class="form-check-input" asp-for="IsHome" />is Home?</label>
+           
+
+        </div>
+        <div class="form-group">
+            <label class="form-check-label"><input class="form-check-input" asp-for="IsSlider" />is Slider?</label>
+
+
+        </div>
+        <div class="form-group">
+            <label asp-for="CategoryId">Blog Kategorisi</label>
+            <select class="form-select" asp-for="CategoryId" asp-items="ViewBag.category">
+                <option disabled value="">Select category</option>
+            </select>
+
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+<script src="~/lib/ckeditor/ckeditor.js"></script>
+
+
+
